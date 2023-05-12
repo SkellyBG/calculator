@@ -64,5 +64,19 @@ body {
     background-color: rgb(80, 80, 80);
 }
 
+.button:hover {
+    background-color: rgb(100, 100, 100);
+    cursor: pointer;
+}
+
+.add, .subtract, .multiply, .divide, .equal {
+    background-color: rgb(255, 153, 0);
+}
+
+.add:hover, .subtract:hover, .multiply:hover, .divide:hover, .equal:hover {
+    background-color: rgb(255, 204, 102);
+}
+
+
 
 
